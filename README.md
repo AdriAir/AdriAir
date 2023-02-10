@@ -1,4 +1,4 @@
-```JSON
+```shell
  { "name" : "Adrián Borio Muñoz",
    "alias" : "AdriAir",
    "roles" : "Web Developer | Student | Backend | Frontend",
