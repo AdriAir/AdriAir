@@ -86,4 +86,25 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </p>
 </div>
+<h2><b>GITHUB LISTS</b><h2>
+ <p style="display: flex;
+ flex-wrap: wrap; justify-content: space-between; gap: 5px;">
+  <ul>
+   <li>
+    <a href="https://github.com/stars/AdriAir/lists/working-on">
+     Working On!
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/stars/AdriAir/lists/future-ideas">
+     Future Ideas
+    </a>
+   </li>
+   <li>
+    <a href="https://github.com/stars/AdriAir/lists/learning">
+     Learning...
+    </a>
+   </li>
+  </ul>
+ </p>
 <!-- </center> -->
