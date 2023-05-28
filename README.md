@@ -1,4 +1,4 @@
-````xquery
+````shell
  { 
    "name" : "Adrián Borio Muñoz",
    "alias" : "AdriAir",
