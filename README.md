@@ -1,4 +1,4 @@
-````json
+````xquery
  { 
    "name" : "Adrián Borio Muñoz",
    "alias" : "AdriAir",
