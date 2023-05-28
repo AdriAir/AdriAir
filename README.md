@@ -1,7 +1,8 @@
-```shell
- { "name" : "Adrián Borio Muñoz",
+```json
+ { 
+   "name" : "Adrián Borio Muñoz",
    "alias" : "AdriAir",
-   "roles" : "Web Developer | Student | Backend | Frontend",
+   "roles" : [ "Web Developer, "Student", "Backend", "Frontend"],
    "data" : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/adri%C3%A1n-borio-mu%C3%B1oz-11353b176/", 
