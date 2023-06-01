@@ -1,4 +1,4 @@
-````
+```javascript
  { 
    "name" : "Adrián Borio Muñoz",
    "alias" : "AdriAir",
@@ -10,7 +10,7 @@
       "@IG"       : "https://www.instagram.com/aadriair"
      }
  }
-```` 
+```
 <center>
     <div>
         <h2><b>SKILLS & KNOWLEDGE</b></h2>
