@@ -140,8 +140,13 @@ flex-wrap: wrap; justify-content: space-between; gap: 5px; box-sizing: content-b
         </a>
     </li>
     <li>
+        <a href="https://github.com/stars/AdriAir/lists/completed-projects">
+            Completed Projects!
+        </a>
+    </li>
+    <li>
         <a href="https://github.com/stars/AdriAir/lists/future-ideas">
-            Future Ideas
+            Future Ideas ;)
         </a>
     </li>
     <li>
