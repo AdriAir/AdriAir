@@ -1,7 +1,8 @@
-```shell
- { "name" : "Adrián Borio Muñoz",
+````
+ { 
+   "name" : "Adrián Borio Muñoz",
    "alias" : "AdriAir",
-   "roles" : "Web Developer | Student | Backend | Frontend",
+   "roles" : [ "Web Developer, "Student", "Backend", "Frontend"],
    "data" : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/adri%C3%A1n-borio-mu%C3%B1oz-11353b176/", 
@@ -9,7 +10,7 @@
       "@IG"       : "https://www.instagram.com/aadriair"
      }
  }
-``` 
+```` 
 <center>
     <div>
         <h2><b>SKILLS & KNOWLEDGE</b></h2>
