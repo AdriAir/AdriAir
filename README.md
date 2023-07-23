@@ -1,19 +1,19 @@
 ```javascript
  { 
-   "name" : "Adrián Borio Muñoz",
-   "alias" : "AdriAir",
-   "roles" :
+   "Name" : "Adrián Borio Muñoz",
+   "Alias" : "AdriAir",
+   "Roles" :
     [
      "Web Developer",
      "Student",
      "Backend",
      "Frontend"
     ],
-   "data" : 
+   "Social" : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/adri%C3%A1n-borio-mu%C3%B1oz-11353b176/", 
-      "WebSite"   : "https://adriair.github.io/",
-      "@IG"       : "https://www.instagram.com/aadriair"
+      "GitHub_WebSite"   : "https://adriair.github.io/",
+      "Instagram"       : "https://www.instagram.com/aadriair"
      }
  }
 ```
