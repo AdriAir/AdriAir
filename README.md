@@ -11,6 +11,13 @@
 - [GitHub Website](https://adriair.github.io/)
 - [Instagram](https://www.instagram.com/aadriair)
 
+## 📈 GitHub Insights
+[![AdriAir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriAir&show_icons=true&theme=radical)](https://github.com/AdriAir)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriAir&layout=compact&theme=radical)](https://github.com/AdriAir)
+
+[![AdriAir's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdriAir&theme=radical)](https://github.com/AdriAir)
+
 ## 🚀 Skills & Knowledge
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
