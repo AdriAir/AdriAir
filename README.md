@@ -9,7 +9,6 @@
 ## 🌐 Social
 - [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-borio-mu%C3%B1oz-11353b176/)
 - [GitHub Website](https://adriair.github.io/)
-- [Instagram](https://www.instagram.com/aadriair)
 
 ## 📈 GitHub Insights
 [![AdriAir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriAir&show_icons=true&theme=radical)](https://github.com/AdriAir)
