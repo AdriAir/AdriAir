@@ -71,7 +71,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 GitHub Lists
-- [Working On!](https://github.com/stars/AdriAir/lists/working-on)
-- [Completed Projects!](https://github.com/stars/AdriAir/lists/completed-projects)
-- [Future Ideas ;)](https://github.com/stars/AdriAir/lists/future-ideas)
-- [Learning...](https://github.com/stars/AdriAir/lists/learning)
+- [Working On](https://github.com/stars/AdriAir/lists/working-on)
+- [Completed Projects](https://github.com/stars/AdriAir/lists/completed-projects)
+- [Future Ideas)](https://github.com/stars/AdriAir/lists/future-ideas)
+- [Learning](https://github.com/stars/AdriAir/lists/learning)
