@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriAir&layout=compact&theme=radical)](https://github.com/AdriAir)
 
-[![AdriAir's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdriAir&theme=radical)](https://github.com/AdriAir)
+[![AdriAir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdriAir&theme=radical)](https://github.com/AdriAir)
 
 ## 🚀 Skills & Knowledge
 ### Programming Languages
