@@ -75,6 +75,5 @@
 - [Working On](https://github.com/stars/AdriAir/lists/working-on)
 - [Completed Projects](https://github.com/stars/AdriAir/lists/completed-projects)
 - [Future Ideas)](https://github.com/stars/AdriAir/lists/future-ideas)
-- [Learning](https://github.com/stars/AdriAir/lists/learning)
 ---
 ![Profile Visits](https://komarev.com/ghpvc/?username=AdriAir&color=blueviolet)
