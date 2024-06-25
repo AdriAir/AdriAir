@@ -2,7 +2,6 @@
 
 ## 🚀 Roles
 - Web Developer
-- Student
 - Backend
 - Frontend
 
