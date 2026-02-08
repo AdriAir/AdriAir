@@ -1,78 +1,112 @@
-# AdriAir's Repository of Wonders
+<div align="center">
 
-## 🚀 Roles
-- Web Developer
-- Backend
-- Frontend
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=AdriAir&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20Designer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
-## 🌐 Social
-- [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-borio-mu%C3%B1oz-11353b176/)
-- [GitHub Website](https://adriair.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1n-borio-mu%C3%B1oz-11353b176/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://adriair.github.io/)
+[![Profile Views](https://komarev.com/ghpvc/?username=AdriAir&style=for-the-badge&color=0d1117&label=VISITORS)](https://github.com/AdriAir)
 
-## 📈 GitHub Insights
-[![AdriAir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriAir&show_icons=true&theme=radical)](https://github.com/AdriAir)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriAir&layout=compact&theme=radical)](https://github.com/AdriAir)
+## About Me
 
-[![AdriAir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdriAir&theme=radical)](https://github.com/AdriAir)
+Web Developer and IT professional with hands-on experience across the full stack — from designing interfaces in Figma to deploying containerized backends. I enjoy building practical tools and learning by reimplementing real-world systems.
 
-## 🚀 Skills & Knowledge
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-607BC0?style=for-the-badge&logo=php&logoColor=black)
-![Java](https://img.shields.io/badge/Java-DA291C?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-390090?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C Language](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
-
-### Markup Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![XML | XSD | DTD](https://img.shields.io/badge/XML%20|%20XSD%20|%20DTD-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=SVG&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-F7DF1E?style=for-the-badge&logo=json&logoColor=black)
-
-### Libraries & Frameworks
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailWind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
-
-### Shell Scripting
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white)
-![Batch](https://img.shields.io/badge/Windows%20Batch-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft%20office&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google%20drive&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### OS & Services
-![Apache2 Web Server](https://img.shields.io/badge/Apache2-db5218?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL Server](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows%2011&logoColor=white)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Learning
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-## 📊 GitHub Lists
-- [Working On](https://github.com/stars/AdriAir/lists/working-on)
-- [Completed Projects](https://github.com/stars/AdriAir/lists/completed-projects)
-- [Future Ideas)](https://github.com/stars/AdriAir/lists/future-ideas)
 ---
-![Profile Visits](https://komarev.com/ghpvc/?username=AdriAir&color=blueviolet)
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tools & Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [Von Neumann Simulator](https://github.com/AdriAir/Von-Neumann-Simulator)
+Interactive web-based CPU simulator built with **React + TypeScript** for understanding Von Neumann architecture. Educational tool with assembly-level visualization.
+
+`React` `TypeScript` `Vite` `CSS`
+
+</td>
+<td width="50%">
+
+### [URL Shortener](https://github.com/AdriAir/URL-Shortener)
+REST API service for URL shortening built with **ASP.NET Core**, containerized with Docker and ready for deployment.
+
+`C#` `.NET 8` `Docker` `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [WordCounter Command](https://github.com/AdriAir/WordCounter-Command)
+Full reimplementation of the Linux `wc` command in **.NET 8**. Supports byte, character, line, and word counting with flexible argument parsing.
+
+`C#` `.NET 8` `CLI`
+
+</td>
+<td width="50%">
+
+### More on my profile...
+Check out my [repositories](https://github.com/AdriAir?tab=repositories) for more projects and experiments.
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdriAir&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AdriAir&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
+
+</div>
