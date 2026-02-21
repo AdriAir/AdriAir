@@ -67,25 +67,26 @@ Modern library for RPC-style communication between parent and iframes
 </td>
 <td width="50%">
 
-### [URL Shortener](https://github.com/AdriAir/URL-Shortener)
-REST API service for URL shortening built with **ASP.NET Core**, containerized with Docker and ready for deployment.
-
-`C#` `.NET 8` `Docker` `REST API`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### [WordCounter Command](https://github.com/AdriAir/WordCounter-Command)
 Full reimplementation of the Linux `wc` command in **.NET 8**. Supports byte, character, line, and word counting with flexible argument parsing.
 
 `C#` `.NET 8` `CLI`
 
 </td>
+</tr>
+<tr>
+
 <td width="50%">
 
-### [Von Neumann Simulator](https://github.com/AdriAir/Von-Neumann-Simulator)
+### [URL Shortener (Working On)](https://github.com/AdriAir/URL-Shortener)
+REST API service for URL shortening built with **ASP.NET Core**, containerized with Docker and ready for deployment.
+
+`C#` `.NET 8` `Docker` `REST API`
+
+</td>
+<td width="50%">
+
+### [Von Neumann Simulator (Working On)](https://github.com/AdriAir/Von-Neumann-Simulator)
 Interactive web-based CPU simulator built with **React + TypeScript** for understanding Von Neumann architecture. Educational tool with assembly-level visualization.
 
 `React` `TypeScript` `Vite` `CSS`
