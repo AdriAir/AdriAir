@@ -59,10 +59,10 @@ Web Developer and IT professional with hands-on experience across the full stack
 <tr>
 <td width="50%">
 
-### [Von Neumann Simulator](https://github.com/AdriAir/Von-Neumann-Simulator)
-Interactive web-based CPU simulator built with **React + TypeScript** for understanding Von Neumann architecture. Educational tool with assembly-level visualization.
+### [RPC iFrame](https://github.com/AdriAir/RPC-iFrame)
+Modern library for RPC-style communication between parent and iframes
 
-`React` `TypeScript` `Vite` `CSS`
+`Javascript` `Typescript` `iFrame` `RPC`
 
 </td>
 <td width="50%">
@@ -85,8 +85,10 @@ Full reimplementation of the Linux `wc` command in **.NET 8**. Supports byte, ch
 </td>
 <td width="50%">
 
-### More on my profile...
-Check out my [repositories](https://github.com/AdriAir?tab=repositories) for more projects and experiments.
+### [Von Neumann Simulator](https://github.com/AdriAir/Von-Neumann-Simulator)
+Interactive web-based CPU simulator built with **React + TypeScript** for understanding Von Neumann architecture. Educational tool with assembly-level visualization.
+
+`React` `TypeScript` `Vite` `CSS`
 
 </td>
 </tr>
