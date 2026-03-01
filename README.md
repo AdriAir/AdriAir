@@ -67,10 +67,10 @@ Modern library for RPC-style communication between parent and iframes
 </td>
 <td width="50%">
 
-### [WordCounter Command](https://github.com/AdriAir/WordCounter-Command)
-Full reimplementation of the Linux `wc` command in **.NET 8**. Supports byte, character, line, and word counting with flexible argument parsing.
+### [AntiPop](https://github.com/AdriAir/AntiPOP)
+Real-time on-screen octopus censorship application for Windows.
 
-`C#` `.NET 8` `CLI`
+`AI` `C++` `Python` `Windows`
 
 </td>
 </tr>
@@ -84,12 +84,13 @@ REST API service for URL shortening built with **ASP.NET Core**, containerized w
 `C#` `.NET 8` `Docker` `REST API`
 
 </td>
+
 <td width="50%">
 
-### [Von Neumann Simulator (Working On)](https://github.com/AdriAir/Von-Neumann-Simulator)
-Interactive web-based CPU simulator built with **React + TypeScript** for understanding Von Neumann architecture. Educational tool with assembly-level visualization.
+### [WordCounter Command](https://github.com/AdriAir/WordCounter-Command)
+Full reimplementation of the Linux `wc` command in **.NET 8**. Supports byte, character, line, and word counting with flexible argument parsing.
 
-`React` `TypeScript` `Vite` `CSS`
+`C#` `.NET 8` `CLI`
 
 </td>
 </tr>
